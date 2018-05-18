@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/Bex-Li/hotRestaurant/issues"
   },
-  "homepage": "https://github.com/Bex-Li/hotRestaurant#readme"
+  "homepage": "https://github.com/Bex-Li/hotRestaurant#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "path": "^0.12.7"
+  }
 }
